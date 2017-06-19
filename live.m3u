@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1,TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CNN Turk
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,Show Max
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:-1,Kanal D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1,TRT Turk
+http://www.iptvsaga.com/play/tv3/0050.m3u8
+#EXTINF:-1,TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT Haber
+http://www.iptvsaga.com/play/tv3/0049.m3u8
+#EXTINF:-1,TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Fox 
+http://tinyurl.com/gtsk4gk
+#EXTINF:-1,Fox
+http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w2083793909.m3u8
+#EXTINF:-1,TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/chunklist_w935094.m3u8
+#EXTINF:-1,Sim TV
+http://yayin3.canlitv.com:1935/canlitv/simtv/playlist.m3u8?hash=ce705f3158ae4276b7754c5568694317
+#EXTINF:-1,Bursa Spor
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,An TV
+http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
+#EXTINF:-1,Sky 360
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1,Bloomberg
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
+#EXTINF:-1,24 TV
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,TV 4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
